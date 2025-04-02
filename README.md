@@ -12,7 +12,6 @@
 - 👋 Olá, eu sou @filipevieira
 - 👀 Estou interessado em dados
 - 🌱 Estou atualmente a aprender python
-- 💼 Trabalho com o produto PDV na Omie
 - 📚 Estudo Análise e Desenvolvimento de Sistemas
 
 <p align="center">
