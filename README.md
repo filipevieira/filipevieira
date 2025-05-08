@@ -15,11 +15,6 @@
 - 📚 Estudo Análise e Desenvolvimento de Sistemas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipevieira&show_icons=true&theme=merko" alt="filipevieira" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipevieira&layout=compact&theme=merko" alt="filipevieira" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/filipevieiradossantos/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
