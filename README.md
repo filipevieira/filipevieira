@@ -67,14 +67,6 @@ Com experiência na área de tecnologia, ao longo de mais de 9 anos, tive a opor
 ---
 
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipevieira&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipevieira&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=filipevieira&theme=radical" alt="GitHub Streak"/>
-</p>
-
-
-<!--
-Preencha os campos de usuário das redes sociais acima conforme desejar.
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filipevieira&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipevieira&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filipevieira&layout=compact&theme=radical)
